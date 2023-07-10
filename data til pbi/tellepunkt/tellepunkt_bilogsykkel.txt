@@ -1,0 +1,58 @@
+FID	kommunenum	Malestasjo	Trafikantg	Status	Vegkategori	Stedsnavn	Tellepunktnavn	POINT_X	POINT_Y	POINT_Z	POINT_M
+0	6	800008	Motorkjøretøy	Operativt	Rv 36	Lensmannsdalen	Lensmannsdalen	9,63556857	59,15916198	14,59999998	1780
+1	6	800017	Motorkjøretøy	Operativt	Rv 36	Skjelbredstrand	Skjelbredstrand	9,5106941	59,18410942	27,89698766	290
+2	14	800009	Motorkjøretøy	Operativt	Ev 18	Bambletunnelen syd	Bambletunnelen syd	9,676179541	59,04187413	27,94267879	6275
+3	6	800164	Motorkjøretøy	Operativt	Fv 353	Svanvik	Svanvik	9,520438864	59,13158882	5,102770164	830
+4	5	800123	Motorkjøretøy	Operativt	Ev 18	Brattåstunnelen syd	Brattåstunnelen syd	9,666976319	59,09617588	53,76612909	3740
+5	14	800011	Motorkjøretøy	Operativt	Ev 18	Stokkebakken	Stokkebakken	9,60529907	58,98134449	46,09999991	1800,083776
+6	5	800150	Motorkjøretøy	Operativt	Rv 36	Klevstrand	Klevstrand	9,649920239	59,12081538	3,300000054	3564
+7	6	800021	Motorkjøretøy	Operativt	Fv 31	Ballestadhøgda	Ballestadhøgda	9,64377532	59,18597022	80,00608084	3470
+8	5	800142	Motorkjøretøy	Operativt	Fv 354	Porsgrunnbrua	Porsgrunnbrua	9,640648413	59,14084108	3,799999943	2139
+9	5	800152	Motorkjøretøy	Operativt	Fv 32	Vallermyrene	Vallermyrene	9,681305331	59,13163109	7,500000029	5790,170374
+10	6	800197	Motorkjøretøy	Operativt	Fv 48	Bjørntvedtvegen Nord	Bjørntvedtvegen Nord	9,603579519	59,18443346	32,3999999	4960
+11	5	800010	Motorkjøretøy	Operativt	Ev 18	Lannerheia	Lannerheia	9,772269968	59,09963799	124,6948404	5294
+12	6	800013	Motorkjøretøy	Operativt	Fv 32	Menstadbrua	Menstadbrua	9,632649729	59,174121	26,80000009	489,0000006
+13	5	800015	Motorkjøretøy	Operativt	Rv 36	Vabakken	Vabakken	9,628294005	59,13954326	10,02125556	6154
+14	5	800016	Motorkjøretøy	Operativt	Ev 18	E18 Nystrand	Nystrand	9,69822731	59,11058643	37,43088812	996
+15	5	800103	Motorkjøretøy	Operativt	Fv 354	Skjelsvik	Skjelsvik	9,68840464	59,09357314	41,06609328	8398
+16	6	800167	Motorkjøretøy	Operativt	Fv 32	Borgestad	Borgestad	9,653326697	59,15976742	18,60000005	1797
+17	6	800156	Motorkjøretøy	Operativt	Fv 44	Petersborg	Petersborg	9,583383496	59,23058992	44,53243058	2367
+18	6	800005	Motorkjøretøy	Operativt	Fv 357	Hesselbergs gate	Hesselbergs gate	9,587907388	59,20459892	12,80000009	1149
+19	14	800125	Motorkjøretøy	Operativt	Ev 18	Dørdal	Dørdal	9,478274556	58,96361219	54,87870971	10150
+20	6	800002	Motorkjøretøy	Operativt	Rv 36	Kjørbekk	Kjørbekk	9,628997308	59,17475851	21,39999995	3690
+21	6	800116	Motorkjøretøy	Operativt	Fv 32	Setre	Setre	9,657115154	59,23952718	202,2652052	6007
+22	6	800018	Motorkjøretøy	Operativt	Fv 32	Sandviksvegen	Sandviksvegen	9,61526447	59,2033319	14,47770783	2555
+23	5	800199	Motorkjøretøy	Operativt	Fv 356	Porsgrunntunnelen	Porsgrunntunnelen	9,66095507	59,13596517	15,20066491	320
+24	5	800118	Motorkjøretøy	Operativt	Rv 354	Ørviksletta	Ørviksletta	9,688562599	59,06776007	30,49999994	4999,052436
+25	6	800130	Motorkjøretøy	Operativt	Fv 59	Smieøya	Smieøya	9,60882593	59,20394067	11,89382468	2227
+26	6	800144	Motorkjøretøy	Operativt	Fv 357	Elstrømbrua	Elstrømbrua	9,583268841	59,1997982	22,3723119	256
+27	6	800019	Motorkjøretøy	Operativt	Fv 48	Bjørntvedtvegen X Trommedalsvegen	Bjørntvedtvegen	9,605133408	59,16199588	81,3424844	2315
+28	14	800020	Motorkjøretøy	Operativt	Rv 354	Høgenheitunnelen	Høgenheitunnelen	9,677398854	59,04144965	28,73746909	820
+0	6	800512	Sykkel	Operativt		Moflata Sykkeltellepunkt	Moflata	9,589622406	59,19320072	25,50004863	1319,767415
+1	6	800526	Sykkel	Operativt		Jonassen bru sykkeltellepunkt	Jonassen bru	9,591125056	59,20194042	9,62084863	160,0000149
+2	14	800514	Sykkel	Operativt		Stathelle Sykkeltellepunkt	Stathelle	9,696553972	59,04274526	31,91644863	380,0000149
+3	11	800519	Sykkel	Operativt		Siljan sykkeltellepunkt	Siljan	9,723215725	59,27583996	113,9423486	45,00001494
+4	5	800028	Sykkel	Ikke operativt		Porsgrunnbrua sykkeltellepunkt Ø	Porsgrunnbrua øst	9,640493757	59,14090037	3,90004863	2226,470215
+5	6	800521	Sykkel	Operativt		Gråten sykkeltellepunkt	Gråten	9,612640874	59,18920428	23,80004863	513,0000149
+6	5	800029	Sykkel	Ikke operativt		FG356 HP 201 Meter 2227	FG356 HP 201 Meter 2227	9,640493757	59,14090037	3,90004863	2226,470215
+7	6	800523	Sykkel	Operativt		Klosterskogen sykkeltellepunkt	Klosterskogen	9,600877715	59,18777355	30,10004863	6110,004915
+8	6	800520	Sykkel	Operativt		Lundedalen Sykkeltellepunkt	Lundedalen	9,598868211	59,21005924	24,24854863	344,0000149
+9	5	800515	Sykkel	Operativt		Nystrand Sykkeltellepunkt	Nystrand	9,700190023	59,10765593	7,96964863	100,0000149
+10	5	800510	Sykkel	Ikke operativt		Ørviksletta Sykkeltellepunkt	Ørviksletta	9,689668415	59,065204	29,63694863	4689,000015
+11	6	800508	Sykkel	Operativt		Nenset Sykkeltellepunkt	Nenset	9,634260264	59,16842281	22,40004863	2891,780615
+12	6	800511	Sykkel	Operativt		Elstrømbrua Sykkeltellepunkt	Elstrømbrua	9,583968473	59,19990531	20,76854863	270,0000149
+13	6	800522	Sykkel	Operativt		Falkumbrua Sykkeltellepunkt	Falkumbrua	9,588493548	59,20480875	13,89344863	1120,000015
+14	5	800506	Sykkel	Operativt		Klevstrand Sykkeltellepunkt	Klevstrand	9,64952232	59,12096624	2,53084863	3595,000015
+15	6	800504	Sykkel	Operativt		Smieøya Sykkeltellepunkt	Smieøya	9,608866303	59,20411878	11,47514863	2213,000015
+16	5	800529	Sykkel	Operativt		Øyekast sykkeltellepunkt	Øyekast	9,639104581	59,127568	25,65334863	1018,000015
+17	6	800509	Sykkel	Operativt		Ballestad Sykkeltellepunkt	Ballestad	9,643525454	59,186208	79,64404863	3500,000015
+18	5	800513	Sykkel	Operativt		Sundjordet Sykkeltellepunkt	Sundjordet	9,635322467	59,13411415	1,40004863	370,0000149
+19	5	800503	Sykkel	Operativt		Borgestad Sykkeltellepunkt	Borgestad	9,657155036	59,15554537	18,00004863	2360,346915
+20	5	800530	Sykkel	Ikke operativt		Porsgrunnbrua Vest sykkeltellepunkt	Porsgrunnbrua vest	9,640722515	59,14092354	3,85644863	2247,000015
+21	6	800525	Sykkel	Operativt		Risingvegen sykkeltellepunkt	Risingvegen	9,6046207	59,2210049	51,90004863	11188,17571
+22	6	800507	Sykkel	Operativt		Menstad Sykkeltellepunkt	Menstad	9,641774636	59,17387242	13,40004863	120,0000149
+23	6	800518	Sykkel	Operativt		Bøle Sykkeltellepunkt	Bøle	9,628650918	59,18460053	18,65804863	4760,000015
+24	5	800517	Sykkel	Operativt		Skjelsvikdalen Sykkeltellepunkt	Skjelsvikdalen	9,671877202	59,10147002	31,70004863	810,0000149
+25	6	800527	Sykkel	Operativt		Luksefjellvegen sykkeltellepunkt	Luksefjellvegen	9,604110859	59,22143096	54,50004863	27,76471494
+26	6	800524	Sykkel	Operativt		Menstad bru sykkeltellepunkt	Menstad bru	9,632491589	59,17421254	26,00004863	584,0291149
+27	5	800528	Sykkel	Operativt		Deichmannsgate sykkeltellepunkt	Deichmannsgate	9,646053862	59,130922	4,863E-05	1
